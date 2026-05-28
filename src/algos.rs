@@ -1,2 +1,3 @@
-mod Amateur;
-pub use Amateur::Amateur;
+mod starter;
+
+pub use starter::Starter;
