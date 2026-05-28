@@ -2684,7 +2684,7 @@ decaf 234030
 decal 698021
 decan 159997
 decay 57649041
-decko 9000
+decko 9001
 decks 10003073
 decor 4457814
 decos 9609
